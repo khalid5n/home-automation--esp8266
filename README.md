@@ -35,11 +35,4 @@ This project is a smart home automation system using two ESP8266 NodeMCU boards.
 - **Safety and security systems** using motion and gas sensors
 - **Industrial automation** with IoT-based monitoring
 
-## 📄 Project Report
-[Download Full Report](reports/Mini_project_reportfinal.pdf)
-
-## 📬 Contact
-If you have any questions, feel free to reach out via GitHub issues.
-
----
 This project demonstrates a scalable and efficient IoT solution for home automation. �
